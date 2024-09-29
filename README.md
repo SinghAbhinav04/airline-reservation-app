@@ -26,7 +26,7 @@ The Airline Reservation System is a Java-based application that allows users to 
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/SinghAbhinav04/airline-reservation-app>
    cd airline-reservation-app
 2. **Add JDBC Drivers:** Download and add the MySQL Connector and PostgreSQL Driver JAR files to your project dependencies.
 
